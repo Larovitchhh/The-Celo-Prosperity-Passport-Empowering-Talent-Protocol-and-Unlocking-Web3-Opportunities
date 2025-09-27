@@ -1,2 +1,4 @@
 # The-Celo-Prosperity-Passport-Empowering-Talent-Protocol-and-Unlocking-Web3-Opportunities
 The Celo Prosperity Passport: Empowering Talent Protocol and Unlocking Web3 Opportunities
+The Celo blockchain, a mobile-first, carbon-negative, Ethereum Virtual Machine (EVM)-compatible layer-1 blockchain, is designed to foster financial inclusion and prosperity for all. One of its flagship innovations, the Prosperity Passport, developed in collaboration with Masa, leverages Soulbound Token (SBT) technology to create a decentralized identity solution for Celo users and developers. This article explores the Prosperity Passport, its integration with the Celo ecosystem, and the specific benefits it offers to Talent Protocol, a decentralized platform dedicated to empowering builders and creators in the Web3 space.
+
